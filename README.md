@@ -1,0 +1,1 @@
+# LOL-HDR-Compare-Method
