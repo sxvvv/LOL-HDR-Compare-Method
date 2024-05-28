@@ -1,0 +1,22 @@
+2024-05-28 08:04:36,848 gpu device = 0
+2024-05-28 08:04:36,849 args = Namespace(batch_size=7, gpu=0, report_freq=50, seed=2)
+2024-05-28 08:07:18,820 gpu device = 0
+2024-05-28 08:07:18,820 args = Namespace(batch_size=7, gpu=0, report_freq=50, seed=2)
+2024-05-28 08:08:35,107 gpu device = 7
+2024-05-28 08:08:35,108 args = Namespace(batch_size=1, gpu=7, report_freq=50, seed=2)
+2024-05-28 08:11:00,162 gpu device = 7
+2024-05-28 08:11:00,162 args = Namespace(batch_size=1, gpu=7, report_freq=50, seed=2)
+2024-05-28 08:17:55,262 gpu device = 7
+2024-05-28 08:17:55,262 args = Namespace(batch_size=1, gpu=7, report_freq=50, seed=2)
+2024-05-28 08:25:05,941 gpu device = 7
+2024-05-28 08:25:05,941 args = Namespace(batch_size=1, gpu=7, report_freq=50, seed=2)
+2024-05-28 08:27:20,468 gpu device = 7
+2024-05-28 08:27:20,469 args = Namespace(batch_size=1, gpu=7, report_freq=50, seed=2)
+2024-05-28 08:28:34,613 gpu device = 7
+2024-05-28 08:28:34,614 args = Namespace(batch_size=1, gpu=7, report_freq=50, seed=2)
+2024-05-28 08:28:53,305 train 050 0.027973 0.000513
+2024-05-28 08:29:02,670 train 100 0.012803 0.000498
+2024-05-28 08:29:11,997 train 150 0.011623 0.000658
+2024-05-28 08:29:21,376 train 200 0.011222 0.000734
+2024-05-28 08:29:31,201 train 250 0.006269 0.000457
+2024-05-28 08:29:40,818 train 300 0.007473 0.000534
